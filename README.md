@@ -1,4 +1,4 @@
-# BlockBallot
+# Decentralized_Voting_Platform
 A decentralized voting platform built on the Ethereum Testnet
 
 ## Mission
